@@ -1,3 +1,5 @@
+# ⚠️ This repo is archived. All work here has moved to [iritkatriel/codoscope](https://github.com/iritkatriel/codoscope)
+
 # Codoscope
 
 Visualize the python compile pipeline
